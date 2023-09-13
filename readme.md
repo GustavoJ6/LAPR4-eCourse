@@ -24,6 +24,14 @@ Ecourse is an online learning management system that is designed to provide a pl
 
 The ecourse project is designed to make the learning process easier, more accessible, and more engaging for all users involved. It is a powerful tool for educational institutions, training centers, and other organizations looking to offer online courses and training programs.
 
+### 1.1. Demonstration
+
+Here is a small demonstration of the project (it does not contain all the features)
+
+
+https://github.com/GustavoJ6/LAPR4-eCourse/assets/103595766/9bcb3315-494d-4996-a23b-d06511e98dfe
+
+
 ## 2. Planning and Technical Documentation
 
 # <span style="color: cornflowerblue">Windows</span>
